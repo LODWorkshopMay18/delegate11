@@ -1,0 +1,2 @@
+﻿<http://datadock.io/LODWorkshopMay18/delegate11/id/definition/id> <http://www.w3.org/2000/01/rdf-schema#label> "id"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegate11/definitions>.
+<http://datadock.io/LODWorkshopMay18/delegate11/id/definition/id> <http://www.w3.org/2000/01/rdf-schema#label> "ID"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegate11/definitions>.
